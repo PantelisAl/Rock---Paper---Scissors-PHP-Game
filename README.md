@@ -1,5 +1,3 @@
-# Rock---Paper---Scissors-PHP-Game
-
 # 🪨✂️📄 Rock - Paper - Scissors | PHP Game  
 
 This is a simple **Rock-Paper-Scissors** game built with **PHP** and **HTML/CSS**. The player competes against the computer, and the first to reach **3 wins** is the overall winner.  
