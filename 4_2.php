@@ -86,10 +86,6 @@
               $machine = $_POST['machine'] + 1;
          }
 
-         if(!empty($_POST["player_name"])){
-             $player_name = $_POST["player_name"];    
-         }
-
     } else {
        $player_name = "";
     }
